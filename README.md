@@ -1,0 +1,1 @@
+This is a collection of studying involving C#, .net, XAML, and Xamarin that was used during my internship with PG
