@@ -1,0 +1,10 @@
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe.config
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.exe
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\bin\Debug\numberGuessingGame.pdb
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csprojAssemblyReference.cache
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.Form1.resources
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.Properties.Resources.resources
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csproj.GenerateResource.cache
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.exe
+C:\Users\CHRIS\source\repos\numberGuessingGame\numberGuessingGame\obj\Debug\numberGuessingGame.pdb
